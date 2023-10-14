@@ -1,4 +1,4 @@
-# Snap To Grid
+# Using the Grid
 
 When we build, sometimes we want to position things accurately.  Second Life has a feature that helps us do that.  It is called Snap To Grid.
 
